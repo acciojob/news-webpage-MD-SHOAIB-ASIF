@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #f5f5f5;
+}
+.header{
+    background-color: #011e29;
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    display: block;
+    justify-content: center;
+    margin: 10px auto;
+  
+}
+div{
+    text-align: center;
+    background-color: #FEFEFE;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    border-radius: 10px;
+    
+    
+}
+
+.sec{
+    
+    display: flex
+}
+
+
+.latest-news-section{
+ width: 25%;
+ 
+}
+
+.art{
+ width: 50%;
+ margin-right: 10px;
+ margin-left: 10px;
+
+}
+.pictorial-news-section{
+ width: 25%;
+ 
+
+}
